@@ -8,7 +8,7 @@
 ### CAP02 - Variáveis, Tipos e Estruturas de Dados
 ### CAP03 - Loops, Condicionais, Métodos e Funções
 ### CAP04 - Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in
-### CAP05 - Orientação a Objetos
+### CAP05 - Orientação a Objetos <font color="red"> (Cursando) </font>
 ### CAP06 - Manipulando Banco de Dados em Python (SQLlite & MongoDB)
 ### CAP07 - Projeto prático
 ### CAP08 - Módulos Python para Análise de Dados (NumPy & Pandas & Matplotlib & Scikit-Learn)
